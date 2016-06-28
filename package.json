@@ -39,9 +39,6 @@
     "grunt-beautify": "git+https://github.com/terryweiss/grunt-beautify.git#FixForGrunt040",
     "grunt-npm": "0.0.2"
   },
-  "peerDependencies": {
-    "grunt": ">=0.4.1"
-  },
   "keywords": [
     "gruntplugin",
     "ssh",
